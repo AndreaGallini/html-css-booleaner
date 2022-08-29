@@ -26,6 +26,9 @@ header{
 .yellow{
     background-color: yellow;
 }
+table{
+    width: 100%;
+}
 
 .colonnasinistra{
     width: 25%;
@@ -35,6 +38,7 @@ header{
 .colonnadestra{
     width: 50%;
     text-align: left;
+    color: white;
 }
 thead{
     background-color:rgb(40, 160, 200)
