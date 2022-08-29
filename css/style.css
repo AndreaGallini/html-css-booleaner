@@ -1,0 +1,73 @@
+
+#logo{
+    width: 150px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+
+}
+header{
+    background-image: url("../img/pattern.png");
+    background-color:rgb(40, 160, 200);
+    width: 100%;
+}
+
+.sottoscritta{
+    color: gray;
+    margin-top: 0px;
+}
+#nomargin{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#aqua{
+    color: aqua;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.colonnasinistra{
+    width: 25%;
+    text-align: left;
+    color: white;
+}
+.colonnadestra{
+    width: 50%;
+    text-align: left;
+}
+thead{
+    background-color:rgb(40, 160, 200)
+}
+tbody{
+    background-color: azure;
+}
+.sfondobianco{
+    background-color: white;
+}
+#gray{
+    color: gray;
+}
+.monitor{
+    background-image: url("../img/monitor.jpg");
+    background-repeat: no-repeat;
+}
+#monitorscritta{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+
+}
+
+.graph{
+    background-image: url("../img/graph.jpg");
+    background-repeat: no-repeat;
+}
+
+#graphscritta{
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+}
