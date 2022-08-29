@@ -15,7 +15,7 @@ header{
     color: gray;
     margin-top: 0px;
 }
-#nomargin{
+.nomargin{
     margin-top: 0px;
     margin-bottom: 0px;
 }
